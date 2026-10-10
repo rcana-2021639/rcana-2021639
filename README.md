@@ -81,7 +81,7 @@
 
 <img src="./assets/t-stats.svg" width="100%" alt="Actividad en GitHub"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rcana-2021639&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0717&title_color=E879F9&icon_color=A855F7&text_color=ECE8FF&ring_color=D946EF&border_radius=14&locale=es" height="170" alt="Estadísticas"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rcana-2021639&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0717&title_color=E879F9&icon_color=A855F7&text_color=ECE8FF&ring_color=D946EF&border_radius=14&hide_rank=true&hide=contribs,issues&card_width=420&locale=es" height="170" alt="Estadísticas"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rcana-2021639&layout=compact&hide_border=true&bg_color=0D0717&title_color=E879F9&text_color=ECE8FF&border_radius=14&locale=es&langs_count=8" height="170" alt="Lenguajes"/>
 
 <img src="https://streak-stats.demolab.com?user=rcana-2021639&locale=es&hide_border=true&border_radius=14&background=0D0717&ring=D946EF&fire=A855F7&currStreakLabel=E879F9&sideLabels=C084FC&currStreakNum=F5F3FF&sideNums=F5F3FF&dates=8B7BB5&stroke=2A1259" width="88%" alt="Racha de contribuciones"/>
