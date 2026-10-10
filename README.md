@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://bespoke-marigold-7eaf5b.netlify.app">
-  <img src="./assets/header.svg" width="100%" alt="Rhandy Caná — Full-Stack Developer & UI/UX"/>
+  <img src="./assets/header.svg" width="100%" alt="Rhandy Estuardo — Full-Stack Developer & UI/UX"/>
 </a>
 
 <br/>
@@ -23,7 +23,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**🛸 Lo que hago**
+** Lo que hago**
 
 - Llevo productos web **de la idea a producción**: diseño, frontend, backend, base de datos y despliegue.
 - Hago interfaces **animadas, rápidas y accesibles**, de las que se quedan en la memoria.
@@ -32,12 +32,12 @@
 </td>
 <td width="50%" valign="top">
 
-**🔮 Ahora mismo**
+** Ahora mismo**
 
-- 🔭 Desarrollando la plataforma del **Foro Interuniversitario de Posgrado**
-- 🎓 Perito Técnico en Informática — **Kinal**
-- 💼 **Disponible** para freelance y trabajo remoto
-- 🌎 Ciudad de Guatemala · GMT-6
+-  Desarrollando la plataforma del **Foro Interuniversitario de Posgrado**
+-  Perito Técnico en Informática — **Kinal**
+-  **Disponible** para freelance y trabajo remoto
+-  Ciudad de Guatemala · GMT-6
 
 </td>
 </tr>
@@ -69,10 +69,10 @@
 
 | | Proyecto | Qué es | Stack |
 |:-:|---|---|---|
-| 💳 | [**Sistema Bancario**](https://github.com/rcana-2021639/grupo6-sistema-bancario-Frontend) | Banca en línea web + app móvil + microservicio de autenticación | React · React Native · Node.js · JWT · MongoDB |
-| 🪐 | [**Portafolio Web**](https://github.com/rcana-2021639/PORTAFOLIO-WEB) | Mi portafolio con estética neón, GSAP y fondos WebGL | React · GSAP · OGL |
-| 🌺 | [**Amaranto**](https://github.com/rcana-2021639/amaranto) | Historial médico unificado con acceso de emergencia por QR *(en desarrollo)* | TypeScript |
-| 🤖 | [**J.A.R.V.I.S.**](https://github.com/rcana-2021639/JARVIS) | Asistente personal por voz con interfaz 3D *(en construcción)* | Python |
+|  | [**Sistema Bancario**](https://github.com/rcana-2021639/grupo6-sistema-bancario-Frontend) | Banca en línea web + app móvil + microservicio de autenticación | React · React Native · Node.js · JWT · MongoDB |
+|  | [**Portafolio Web**](https://github.com/rcana-2021639/PORTAFOLIO-WEB) | Mi portafolio con estética neón, GSAP y fondos WebGL | React · GSAP · OGL |
+|  | [**Amaranto**](https://github.com/rcana-2021639/amaranto) | Historial médico unificado con acceso de emergencia por QR *(en desarrollo)* | TypeScript |
+|  | [**J.A.R.V.I.S.**](https://github.com/rcana-2021639/JARVIS) | Asistente personal por voz con interfaz 3D *(en construcción)* | Python |
 
 > [!NOTE]
 > El código del Foro vive en un repositorio privado. Con gusto lo muestro en una llamada.
