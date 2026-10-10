@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="410" viewBox="0 0 900 410" role="img" aria-label="Terminal: whoami — Rhandy Caná, desarrollador full-stack">
+  <defs>
+    <linearGradient id="win" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#150b2b"/>
+      <stop offset="1" stop-color="#0a0512"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#a855f7"/>
+      <stop offset=".5" stop-color="#d946ef"/>
+      <stop offset="1" stop-color="#6366f1"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" values="0 .5 .5;360 .5 .5" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="spot" cx=".85" cy="0" r=".9">
+      <stop offset="0" stop-color="#b026ff" stop-opacity=".22"/>
+      <stop offset="1" stop-color="#b026ff" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      text{font-family:'JetBrains Mono','Cascadia Code',Consolas,'Courier New',monospace;font-size:16px}
+      .p{fill:#5ee4a8}.c{fill:#ece8ff}.k{fill:#c084fc}.s{fill:#ff5fe1}.m{fill:#8b7bb5}.y{fill:#22d3ee}
+      .l{animation:show 16s infinite both}
+      @keyframes show{0%{opacity:0}2%,92%{opacity:1}97%,100%{opacity:0}}
+      .l1{animation-delay:.2s}.l2{animation-delay:.9s}.l3{animation-delay:1.6s}.l4{animation-delay:2.1s}
+      .l5{animation-delay:2.5s}.l6{animation-delay:2.9s}.l7{animation-delay:3.3s}.l8{animation-delay:3.7s}
+      .l9{animation-delay:4.3s}.l10{animation-delay:5s}.l11{animation-delay:5.6s}
+      .cur{animation:blink 1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+      .scan{animation:scan 6s linear infinite}
+      @keyframes scan{from{transform:translateY(-40px)}to{transform:translateY(430px)}}
+      @media (prefers-reduced-motion:reduce){*{animation:none!important}}
+    </style>
+    <clipPath id="clip"><rect x="2" y="2" width="896" height="406" rx="16"/></clipPath>
+  </defs>
+
+  <rect x="2" y="2" width="896" height="406" rx="16" fill="url(#win)"/>
+  <rect x="2" y="2" width="896" height="406" rx="16" fill="url(#spot)"/>
+  <g clip-path="url(#clip)">
+    <rect class="scan" x="0" y="0" width="900" height="40" fill="#c084fc" opacity=".04"/>
+  </g>
+  <rect x="2" y="2" width="896" height="406" rx="16" fill="none" stroke="url(#edge)" stroke-width="2"/>
+
+  <!-- barra de ventana -->
+  <path d="M2 18 A16 16 0 0 1 18 2 H882 A16 16 0 0 1 898 18 V44 H2 Z" fill="#1c1038"/>
+  <circle cx="28" cy="23" r="6.5" fill="#fb7185"/><circle cx="50" cy="23" r="6.5" fill="#fbbf24"/><circle cx="72" cy="23" r="6.5" fill="#5ee4a8"/>
+  <text x="450" y="28" text-anchor="middle" class="m" font-size="13">rhandy@guatemala: ~/portafolio — zsh</text>
+
+  <g transform="translate(28 80)">
+    <g class="l l1"><text class="p">❯</text><text x="22" class="c">whoami</text></g>
+    <g class="l l2"><text y="28" class="k">Rhandy Caná</text><text x="122" y="28" class="m">·</text><text x="140" y="28" class="c">Full-Stack Developer con alma de diseñador UI/UX</text></g>
+
+    <g class="l l3"><text y="66" class="p">❯</text><text x="22" y="66" class="c">cat stack.json</text></g>
+    <g class="l l4"><text y="94" class="m">{</text></g>
+    <g class="l l5"><text x="22" y="120" class="y">"frontend"</text><text x="132" y="120" class="m">:</text><text x="150" y="120" class="s">["React", "Next.js", "TypeScript", "Tailwind", "GSAP", "Three.js"]</text></g>
+    <g class="l l6"><text x="22" y="146" class="y">"backend"</text><text x="132" y="146" class="m">:</text><text x="150" y="146" class="s">["Node.js", "Strapi", "ASP.NET Core", "Express", "Spring Boot"]</text></g>
+    <g class="l l7"><text x="22" y="172" class="y">"data"</text><text x="132" y="172" class="m">:</text><text x="150" y="172" class="s">["PostgreSQL", "MySQL", "SQLite", "MongoDB"]</text></g>
+    <g class="l l8"><text x="22" y="198" class="y">"devops"</text><text x="132" y="198" class="m">:</text><text x="150" y="198" class="s">["Docker", "GitHub Actions", "Jest", "Vercel"]</text></g>
+    <g class="l l8"><text y="224" class="m">}</text></g>
+
+    <g class="l l9"><text y="262" class="p">❯</text><text x="22" y="262" class="c">echo $MISION</text></g>
+    <g class="l l10"><text y="290" class="k">✦ Convertir ideas en productos rápidos, seguros y bonitos de usar.</text></g>
+    <g class="l l11"><text y="318" class="p">❯</text><rect class="cur" x="22" y="304" width="10" height="18" fill="#e879f9"/></g>
+  </g>
+</svg>
